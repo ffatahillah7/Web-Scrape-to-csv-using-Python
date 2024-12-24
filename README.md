@@ -15,7 +15,7 @@ Please check the python file for better understanding.
 1. Install and Import Library needed
 2. Knowledge of html language
 3. inspect the website
-4. discover the text do you want to take
+4. discover the text do you want to take. For this project we will find Title, Price and Rating of a book at book store.
 5. print using BeautifulSoup for better format text
 6. find the class, Paragraph, and Attribute of the text.
 7. Transform to the good format
