@@ -1,4 +1,4 @@
-# Web Scrape to csv using Python 
+# Web Scraping to csv using Python 
 Get data from web using Python and load or export to csv
 
 The Purpose of this project is to scrape data from website and load it to csv file. Using several libraly of Python such as Csv, Requests and BeautifulSoup.
